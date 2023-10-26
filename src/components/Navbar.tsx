@@ -59,7 +59,7 @@ const Navbar = () => {
                 </li>
                 <li className=""
                   onClick={()=> setOpenMobileMenu(false)}>
-                    <a href="#contacts" className="">Contact</a>
+                    <a href="#contact" className="">Contact</a>
                 </li>
             </ul>
 
