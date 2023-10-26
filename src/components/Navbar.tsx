@@ -37,7 +37,7 @@ const Navbar = () => {
 
 
   return (
-    <nav className={`py-2 w-full ${isScrolling ? "fixed top-0 bg-white shadow-lg z-10" : "relative"}`}>
+    <nav className={`py-3 w-full ${isScrolling ? "fixed top-0 bg-white shadow-lg z-10" : "relative"}`}>
         <div className="w-[89%] m-auto
         max-w-[1400px] flex justify-between items-center">
             <a href="/">
