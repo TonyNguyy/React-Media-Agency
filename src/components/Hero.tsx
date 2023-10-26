@@ -48,10 +48,9 @@ const Hero = () => {
         {/* LEFT SIDE */}
         <div className="mt-20 md:mt-0 text-center md:text-start">
           <h2 className="text-white text-2xl font-bold drop-shadow-lg ">Welcome to</h2>
-          <h1 className="text-white text-6xl font-bold drop-shadow-lg mb-3">IMAGINE MEDIA</h1>
+          <h1 className="text-white text-6xl font-bold drop-shadow-lg mb-3">InfluenceHub</h1>
           <p className="text-gray-400">
-            Discover limitless growth possibilities through innovative social media strategies, driven by Imagine
-            Media's expertise and passion for success.
+            Discover limitless growth possibilities through innovative social media strategies, driven by InfluenceHub's expertise and passion for success.
           </p>
           <div className="flex gap-4 md:gap-1 lg:gap-4 mt-6 justify-center md:justify-start">
             <a

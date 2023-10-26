@@ -15,9 +15,9 @@ const Footer = () => {
             <div className="flex flex-col md:flex-row items-center gap-10 justify-between">
               <div>
                 <a href="">
-                  <h1 className="text-3xl drop-shadow text-white font-bold text-center">IMAGINE</h1>
+                  <h1 className="text-3xl drop-shadow text-white font-bold text-center">InfluenceHub</h1>
                 </a>
-                <span>Where Dreams Comes True</span>
+                <span>Shaping Ideas, Igniting Impact</span>
               </div>
               <div className="text-center">
                 <h2 className="text-lg font-bold mb-4">Links</h2>

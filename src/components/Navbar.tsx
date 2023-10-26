@@ -41,7 +41,7 @@ const Navbar = () => {
         <div className="w-[89%] m-auto
         max-w-[1400px] flex justify-between items-center">
             <a href="/">
-                <h1 className="text-3xl font-bold text-primary">Imagine</h1>
+                <h1 className="text-3xl font-bold text-primary">InfluenceHub</h1>
             </a>
             <ul className={`md:flex items-center gap-8 md:static absolute text-gray-400 ${openMobileMenu ? "top-12 py-4 w-full bg-primary left-0 text-center space-y-10 text-white drop-shadow-lg z-20" :
             "hidden"}`}>
