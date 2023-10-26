@@ -73,7 +73,7 @@ const Hero = () => {
           <img src={heroImage} className="w-full lg:h-[550px] h-[450px] object-cover" alt="" />
           <div className="absolute bottom-2 md:bottom-10 lg:bottom-20 left-2 md:left-5 p-4 m-3 w-44 rounded-lg shadow-md bg-white text-center">
             <span className="text-3xl font-bold mb-0 text-[#FFAFCC]">5000+</span>
-            <h6 className="text-sm text-slate-400 mt-1">Reviews</h6>
+            <h6 className="text-sm text-slate-400 mt-1">Reviews </h6>
           </div>
           <div className="absolute right-0 top-5 md:top-10 lg:top-10 md:right-0 lg:right-10 p-4 w-44 rounded-lg shadow-md bg-white m-3 text-center animate-bounce">
             <div className="font-semibold text-[#FFAFCC] flex justify-center text-[18px]">
