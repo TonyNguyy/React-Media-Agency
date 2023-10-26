@@ -76,7 +76,7 @@ const Hero = () => {
             <span className="text-3xl font-bold mb-0 text-[#FFAFCC]">5000+</span>
             <h6 className="text-sm text-slate-400 mt-1">Reviews</h6>
           </div>
-          <div className="absolute  right-0 top-5 md:top-10 lg:top-10 md:right-0 lg:right-10 p-4 w-44 rounded-lg shadow-md bg-white m-3 text-center">
+          <div className="absolute right-0 top-5 md:top-10 lg:top-10 md:right-0 lg:right-10 p-4 w-44 rounded-lg shadow-md bg-white m-3 text-center">
             <div className="font-semibold text-[#FFAFCC] flex justify-center text-[18px]">
               <AiFillStar />
               <AiFillStar />
