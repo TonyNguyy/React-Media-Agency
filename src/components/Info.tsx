@@ -116,7 +116,7 @@ const Info = () => {
               <div className="text-[#FFAFCC]">
                 <AiFillCheckCircle size={17} />
               </div>
-              <span className="text-md text-gray-500">Special Promotions</span>
+              <span className="text-md text-gray-500">Special Promos</span>
             </div>
             <div className="flex items-center gap-[10px]">
               <div className="text-[#FFAFCC]">
@@ -128,7 +128,7 @@ const Info = () => {
               <div className="text-[#FFAFCC]">
                 <AiFillCheckCircle size={17} />
               </div>
-              <span className="text-md text-gray-500">Tips to improve your media presence</span>
+              <span className="text-md text-gray-500">Exclusive Discounts</span>
             </div>
           </div>
         </div>
